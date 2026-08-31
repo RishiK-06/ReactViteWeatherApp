@@ -1,0 +1,11 @@
+{
+  "title": "Weather App",
+  "description": "Offers a seamless mobile experience to access key features and services on the go, enhancing convenience and productivity for users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
